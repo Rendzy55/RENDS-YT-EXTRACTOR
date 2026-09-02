@@ -1,4 +1,4 @@
-﻿# Rends YouTube Extractor Service 🚀
+﻿# Rends YouTube Extractor Service - -
 Dedicated, self-hosted YouTube downloader service powered by **yt-dlp** and **FFmpeg** on Docker.
 
 ## Endpoints:
