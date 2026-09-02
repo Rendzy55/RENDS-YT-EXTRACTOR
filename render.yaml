@@ -1,0 +1,10 @@
+﻿services:
+  - type: web
+    name: rends-yt-extractor
+    env: docker
+    plan: free
+    region: singapore
+    buildCommand: ""
+    startCommand: ""
+    healthCheckPath: /
+    autoDeploy: true
